@@ -2,8 +2,8 @@
 
 @font-face {
 	font-family: 'vast_shadowregular';
-	src: url('https://games-digital-classroom.nma.gov.au/goldrush/fonts/vastshadow-regular-webfont.eot');
-	src: url('https://games-digital-classroom.nma.gov.au/goldrush/fonts/vastshadow-regular-webfont.eot?#iefix') format('embedded-opentype'), url('https://games-digital-classroom.nma.gov.au/goldrush/fonts/vastshadow-regular-webfont.woff2') format('woff2'), url('https://games-digital-classroom.nma.gov.au/goldrush/fonts/vastshadow-regular-webfont.woff') format('woff'), url('https://games-digital-classroom.nma.gov.au/goldrush/fonts/vastshadow-regular-webfont.ttf') format('truetype'), url('https://games-digital-classroom.nma.gov.au/goldrush/fonts/astshadow-regular-webfont.svg#vast_shadowregular') format('svg');
+	src: url('fonts/vastshadow-regular-webfont.eot');
+	src: url('fonts/vastshadow-regular-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/vastshadow-regular-webfont.woff2') format('woff2'), url('fonts/vastshadow-regular-webfont.woff') format('woff'), url('fonts/vastshadow-regular-webfont.ttf') format('truetype'), url('fonts/astshadow-regular-webfont.svg#vast_shadowregular') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
