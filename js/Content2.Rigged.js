@@ -1,4 +1,4 @@
-var data = {
+var dataRigged = {
 	"characters": {
 	  "character": [
 		{
